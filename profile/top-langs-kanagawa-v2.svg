@@ -122,7 +122,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="370" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="370" height="8" fill="#223249" rx="5"/>
         </mask>
         
         <rect
