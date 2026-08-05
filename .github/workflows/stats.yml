@@ -25,10 +25,19 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=1F1F28&title_color=7E9CD8&text_color=DCD7BA&border_color=223249
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=16161D&title_color=7E9CD8&text_color=DCD7BA&border_color=223249&border_radius=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Apply Kanagawa language colors
+        run: |
+          sed -i 's/#f34b7d/#7E9CD8/g' profile/top-langs.svg
+          sed -i 's/#178600/#98BB6C/g' profile/top-langs.svg
+          sed -i 's/#9400ff/#957FB8/g' profile/top-langs.svg
+          sed -i 's/#3572A5/#E6C384/g' profile/top-langs.svg
+          sed -i 's/#663399/#D27E99/g' profile/top-langs.svg
+          sed -i 's/#e38c00/#C34043/g' profile/top-langs.svg
 
       - name: Commit generated card
         run: |
