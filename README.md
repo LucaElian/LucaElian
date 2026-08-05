@@ -1,8 +1,12 @@
 <div align="center">
 
-# LUCA ELIAN
+<img src="./assets/kanagawa-wave.jpg" width="72%" alt="The Great Wave off Kanagawa">
 
-### 波　Programming Student at UTN　波
+<br><br>
+
+<h1>LUCA ELIAN</h1>
+
+<p><strong>波　Programming Student at UTN　波</strong></p>
 
 <sub>Software Development　·　Argentina</sub>
 
@@ -104,7 +108,7 @@ Console dice game built in **C++**, featuring single-player, two-player, ranking
 
 <div align="center">
 
-<img width="58%" src="./profile/top-langs.svg" alt="Most Used Languages">
+<img width="58%" src="./profile/top-langs-kanagawa.svg" alt="Most Used Languages">
 
 </div>
 
