@@ -126,7 +126,7 @@ Console dice game built in **C++**, featuring single-player, two-player, ranking
 
 <div align="center">
 
-<img width="54%" src="./profile/top-langs.svg" alt="Most Used Languages">
+<img width="54%" src="./profile/top-langs-kanagawa-v2.svg" alt="Most Used Languages">
 
 </div>
 
