@@ -100,12 +100,11 @@ Console dice game built in **C++**, featuring single-player, two-player, ranking
 
 ---
 
-## 統計 · GitHub Stats
+## 統計 · Languages
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" alt="GitHub Stats">
-<img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages">
+<img width="58%" src="./profile/top-langs.svg" alt="Most Used Languages">
 
 </div>
 
