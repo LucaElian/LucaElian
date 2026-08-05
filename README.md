@@ -16,7 +16,7 @@
 
 <img
   src="./assets/kanagawa-wave-break.gif"
-  width="92%"
+  width="100%"
   alt="The Great Wave off Kanagawa"
 />
 
