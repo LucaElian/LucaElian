@@ -12,7 +12,7 @@
 
 <br>
 
-> Learning through projects, curiosity and probably too many Doritos.
+<p><em>Learning through projects, curiosity and probably too many Doritos.</em></p>
 
 </div>
 

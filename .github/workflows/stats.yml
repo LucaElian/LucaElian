@@ -25,14 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}&
-            layout=compact&
-            langs_count=6&
-            bg_color=00000000&
-            title_color=7E9CD8&
-            text_color=DCD7BA&
-            hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=16161D&title_color=7E9CD8&text_color=DCD7BA&hide_border=true
           path: profile/top-langs-kanagawa.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
