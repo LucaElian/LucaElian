@@ -1,22 +1,26 @@
 <div align="center">
 
-# Luca Elian
+# LUCA ELIAN
 
 ### 「 Drepsott 」
 
 **Programming Student · UTN**
 
-<sub>波　Software Development　・　Argentina</sub>
+<sub>波の記録　・　Software Development　・　Argentina</sub>
+
+<br>
+
+<sub>Web Applications · Desktop Applications · Databases · Software Architecture</sub>
 
 <br><br>
 
 <em>Learning through projects, curiosity and probably too many Doritos.</em>
 
-<br><br><br>
+<br><br>
 
 <img
   src="./assets/kanagawa-wave-break.gif"
-  width="100%"
+  width="95%"
   alt="The Great Wave off Kanagawa"
 />
 
@@ -75,7 +79,13 @@ My projects currently include web and desktop applications developed with **C#, 
 
 ### [Clinic Manager](https://github.com/LucaElian/clinic-manager)
 
+<sub>診療管理システム　・　Medical Management</sub>
+
+<br>
+
 Medical clinic management system built with **ASP.NET Web Forms, C# and SQL Server**, featuring appointments, patients, doctors and reporting.
+
+<br>
 
 <code>C#</code>
 <code>ASP.NET Web Forms</code>
@@ -87,7 +97,13 @@ Medical clinic management system built with **ASP.NET Web Forms, C# and SQL Serv
 
 ### [Hardware Manager](https://github.com/LucaElian/hardware-manager)
 
+<sub>在庫・販売管理　・　Inventory & Sales</sub>
+
+<br>
+
 Hardware inventory and sales management system built in **C++**, featuring stock control, customers, vendors and reporting.
+
+<br>
 
 <code>C++</code>
 <code>OOP</code>
@@ -103,7 +119,13 @@ Hardware inventory and sales management system built in **C++**, featuring stock
 
 ### [Municipal Helpdesk](https://github.com/LucaElian/municipal-helpdesk)
 
+<sub>IT支援管理　・　Helpdesk System</sub>
+
+<br>
+
 Desktop IT support management system built in **Python** for a municipality, featuring ticketing, user administration, reporting and dashboards.
+
+<br>
 
 <code>Python</code>
 <code>CustomTkinter</code>
@@ -115,7 +137,13 @@ Desktop IT support management system built in **Python** for a municipality, fea
 
 ### [Cien O Escalera](https://github.com/LucaElian/CienOEscalera)
 
+<sub>サイコロゲーム　・　Dice Game</sub>
+
+<br>
+
 Console dice game built in **C++**, featuring single-player, two-player, ranking and simulation modes.
+
+<br>
 
 <code>C++</code>
 <code>Console</code>
