@@ -1,4 +1,4 @@
-name: Update profile languages
+name: Update Kanagawa language stats
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
       - ".github/workflows/stats.yml"
 
 jobs:
-  generate-stats:
+  generate-languages:
     runs-on: ubuntu-latest
 
     permissions:
@@ -21,28 +21,35 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate top languages
+      - name: Generate language statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=16161D&title_color=7E9CD8&text_color=DCD7BA&border_color=223249&border_radius=6
-          path: profile/top-langs.svg
+          options: >-
+            username=${{ github.repository_owner }}&
+            layout=compact&
+            langs_count=6&
+            bg_color=00000000&
+            title_color=7E9CD8&
+            text_color=DCD7BA&
+            hide_border=true
+          path: profile/top-langs-kanagawa.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Apply Kanagawa language colors
+      - name: Apply Kanagawa palette
         run: |
-          sed -i 's/#f34b7d/#7E9CD8/g' profile/top-langs.svg
-          sed -i 's/#178600/#98BB6C/g' profile/top-langs.svg
-          sed -i 's/#9400ff/#957FB8/g' profile/top-langs.svg
-          sed -i 's/#3572A5/#E6C384/g' profile/top-langs.svg
-          sed -i 's/#663399/#D27E99/g' profile/top-langs.svg
-          sed -i 's/#e38c00/#C34043/g' profile/top-langs.svg
+          sed -i 's/#f34b7d/#7E9CD8/g' profile/top-langs-kanagawa.svg
+          sed -i 's/#178600/#98BB6C/g' profile/top-langs-kanagawa.svg
+          sed -i 's/#9400ff/#957FB8/g' profile/top-langs-kanagawa.svg
+          sed -i 's/#3572A5/#E6C384/g' profile/top-langs-kanagawa.svg
+          sed -i 's/#663399/#D27E99/g' profile/top-langs-kanagawa.svg
+          sed -i 's/#e38c00/#C34043/g' profile/top-langs-kanagawa.svg
 
-      - name: Commit generated card
+      - name: Commit generated statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/top-langs.svg
-          git commit -m "Update language stats" || exit 0
+          git add profile/top-langs-kanagawa.svg
+          git commit -m "Update Kanagawa language stats" || exit 0
           git push

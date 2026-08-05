@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="./assets/kanagawa-wave.jpg" width="72%" alt="The Great Wave off Kanagawa">
+<img src="./assets/kanagawa-kakejiku.gif" width="56%" alt="Kanagawa inspired kakejiku">
 
 <br><br>
 
-<h1>LUCA ELIAN</h1>
+# Luca Elian
 
-<p><strong>波　Programming Student at UTN　波</strong></p>
+### Drepsott · Programming Student · UTN
 
-<sub>Software Development　·　Argentina</sub>
+<sub>波　Software Development　·　Argentina</sub>
+
+<br>
+
+> Learning through projects, curiosity and probably too many Doritos.
 
 </div>
 
 <br>
+
+---
 
 ## 自己紹介 · About Me
 
@@ -30,23 +36,23 @@ My projects currently include web and desktop applications developed with **C#, 
 
 <div align="center">
 
-<code>C#</code>
-<code>.NET Framework</code>
-<code>ASP.NET Web Forms</code>
-<code>SQL Server</code>
-<code>Bootstrap</code>
+<img src="https://img.shields.io/badge/C%23-16161D?style=for-the-badge&logo=csharp&logoColor=7E9CD8">
+<img src="https://img.shields.io/badge/.NET_Framework-16161D?style=for-the-badge&logo=dotnet&logoColor=DCD7BA">
+<img src="https://img.shields.io/badge/ASP.NET_Web_Forms-16161D?style=for-the-badge&logo=dotnet&logoColor=957FB8">
+<img src="https://img.shields.io/badge/SQL_Server-16161D?style=for-the-badge&logo=microsoftsqlserver&logoColor=C34043">
+<img src="https://img.shields.io/badge/Bootstrap-16161D?style=for-the-badge&logo=bootstrap&logoColor=957FB8">
 
 <br><br>
 
-<code>C++</code>
-<code>Python</code>
-<code>CustomTkinter</code>
-<code>SQLite</code>
+<img src="https://img.shields.io/badge/C++-16161D?style=for-the-badge&logo=cplusplus&logoColor=7E9CD8">
+<img src="https://img.shields.io/badge/Python-16161D?style=for-the-badge&logo=python&logoColor=E6C384">
+<img src="https://img.shields.io/badge/CustomTkinter-16161D?style=for-the-badge&logo=python&logoColor=98BB6C">
+<img src="https://img.shields.io/badge/SQLite-16161D?style=for-the-badge&logo=sqlite&logoColor=DCD7BA">
 
 <br><br>
 
-<code>Git</code>
-<code>GitHub</code>
+<img src="https://img.shields.io/badge/Git-16161D?style=for-the-badge&logo=git&logoColor=C34043">
+<img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=DCD7BA">
 
 </div>
 
@@ -108,7 +114,7 @@ Console dice game built in **C++**, featuring single-player, two-player, ranking
 
 <div align="center">
 
-<img width="58%" src="./profile/top-langs-kanagawa.svg" alt="Most Used Languages">
+<img width="54%" src="./profile/top-langs-kanagawa.svg" alt="Most Used Languages">
 
 </div>
 
