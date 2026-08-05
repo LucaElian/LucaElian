@@ -12,6 +12,14 @@
 
 <em>Learning through projects, curiosity and probably too many Doritos.</em>
 
+<br><br><br>
+
+<img
+  src="./assets/kanagawa-wave-break.gif"
+  width="92%"
+  alt="The Great Wave off Kanagawa"
+/>
+
 </div>
 
 <br>
@@ -25,18 +33,6 @@ I'm currently pursuing a **Technical Degree in Programming at Universidad Tecnol
 I enjoy learning through projects and building software, with a particular interest in **application development, databases and software architecture**.
 
 My projects currently include web and desktop applications developed with **C#, ASP.NET Web Forms, SQL Server, C++, Python and CustomTkinter**.
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="./assets/kanagawa-wave-break.gif" width="720" alt="The Great Wave off Kanagawa">
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -74,13 +70,16 @@ My projects currently include web and desktop applications developed with **C#, 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### [Clinic Manager](https://github.com/LucaElian/clinic-manager)
 
 Medical clinic management system built with **ASP.NET Web Forms, C# and SQL Server**, featuring appointments, patients, doctors and reporting.
 
-<code>C#</code> <code>ASP.NET Web Forms</code> <code>SQL Server</code>
+<code>C#</code>
+<code>ASP.NET Web Forms</code>
+<code>SQL Server</code>
 
 </td>
 
@@ -90,19 +89,25 @@ Medical clinic management system built with **ASP.NET Web Forms, C# and SQL Serv
 
 Hardware inventory and sales management system built in **C++**, featuring stock control, customers, vendors and reporting.
 
-<code>C++</code> <code>OOP</code> <code>Inventory</code>
+<code>C++</code>
+<code>OOP</code>
+<code>Inventory</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### [Municipal Helpdesk](https://github.com/LucaElian/municipal-helpdesk)
 
 Desktop IT support management system built in **Python** for a municipality, featuring ticketing, user administration, reporting and dashboards.
 
-<code>Python</code> <code>CustomTkinter</code> <code>SQLite</code>
+<code>Python</code>
+<code>CustomTkinter</code>
+<code>SQLite</code>
 
 </td>
 
@@ -112,9 +117,12 @@ Desktop IT support management system built in **Python** for a municipality, fea
 
 Console dice game built in **C++**, featuring single-player, two-player, ranking and simulation modes.
 
-<code>C++</code> <code>Console</code> <code>Simulation</code>
+<code>C++</code>
+<code>Console</code>
+<code>Simulation</code>
 
 </td>
+
 </tr>
 </table>
 
@@ -126,7 +134,11 @@ Console dice game built in **C++**, featuring single-player, two-player, ranking
 
 <div align="center">
 
-<img width="54%" src="./profile/top-langs-kanagawa-v2.svg" alt="Most Used Languages">
+<img
+  width="54%"
+  src="./profile/top-langs-kanagawa-v2.svg"
+  alt="Most Used Languages"
+/>
 
 </div>
 

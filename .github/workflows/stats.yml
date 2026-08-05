@@ -38,6 +38,7 @@ jobs:
           sed -i 's/#3572A5/#E6C384/g' profile/top-langs-kanagawa-v2.svg
           sed -i 's/#663399/#D27E99/g' profile/top-langs-kanagawa-v2.svg
           sed -i 's/#e38c00/#C34043/g' profile/top-langs-kanagawa-v2.svg
+          sed -i 's/fill="white"/fill="#223249"/g' profile/top-langs-kanagawa-v2.svg
 
       - name: Commit generated statistics
         run: |
